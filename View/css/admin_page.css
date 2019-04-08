@@ -1,0 +1,36 @@
+/*Id page admin*/
+#head_admin{
+
+    color: red;
+}
+#admin_index_button{
+    position: relative;
+    margin-left: 5%;
+}
+#admin_User_Title{
+    background-color:cornflowerblue;
+    border:solid;
+    border-color: cornflowerblue;
+    border-radius: 10px;
+    text-align: center;
+    width: 20%;
+}
+
+#admin_modify{
+    margin-left: 5%;
+    background-color:greenyellow;
+    border:solid;
+    border-color: greenyellow;
+    border-radius: 8px;
+    text-align: center;
+    width: 20%;
+}
+#admin_delete{
+    margin-left: 5%;
+    background-color: #ff0100;
+    width: 20%;
+    border:solid;
+    border-color: #ff0100;
+    border-radius: 8px;
+    text-align: center;
+}
